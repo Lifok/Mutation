@@ -1,0 +1,20 @@
+mutation.effect=Effect
+mutation.effect.minute=per minute
+mutation.effect.mutation=Mutation
+mutation.effect.mutagen_green=Add %s hearts.
+mutation.effect.mutagen_red=Add %s damage.
+mutation.effect.mutagen_white=Run %s%% faster.
+mutation.effect.mutagen_gold=Break blocks %s%% faster.
+mutation.effect.mutagen_exp=Give 1xp each %s secondes.
+
+mutation.effect.antidote=Reduce %s%% of mutation.
+
+item.dna.name=DNA Point
+item.mutagen_green.name=Healthgen
+item.mutagen_red.name=Damagen
+item.mutagen_white.name=Wingen
+item.mutagen_gold.name=Monegen
+item.mutagen_exp.name=Licorn's Gen
+item.syringe.name=Syringe
+item.antidote.name=Antidote
+item.vaccine.name=Vaccine S-4N

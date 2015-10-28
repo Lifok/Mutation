@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mutation",
+  "name": "Mutation",
+  "description": "Mutate and become stronger, but care to not die...",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lifok", "Orphevs"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

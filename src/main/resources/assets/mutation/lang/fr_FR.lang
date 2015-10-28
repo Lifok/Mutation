@@ -1,0 +1,20 @@
+mutation.effect=Effet
+mutation.effect.minute=par minute
+mutation.effect.mutation=Mutation
+mutation.effect.mutagen_green=Ajoute %s coeurs.
+mutation.effect.mutagen_red=Ajoute %s points de dégâts.
+mutation.effect.mutagen_white=Augmente la vitesse de %s%%.
+mutation.effect.mutagen_gold=Mine %s%% plus vite.
+mutation.effect.mutagen_exp=Donne 1xp toutes les %s secondes.
+
+mutation.effect.antidote=Réduit de %s%% la mutation.
+
+item.dna.name=Point d'ADN
+item.mutagen_green.name=Sanigène
+item.mutagen_red.name=Adrénogène
+item.mutagen_white.name=Venogène
+item.mutagen_gold.name=Monagène
+item.mutagen_exp.name=Expogène
+item.syringe.name=Seringue
+item.antidote.name=Antidote
+item.vaccine.name=Vaccin
